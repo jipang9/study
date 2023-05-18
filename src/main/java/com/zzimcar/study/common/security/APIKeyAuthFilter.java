@@ -1,4 +1,4 @@
-package com.zzimcar.study.security;
+package com.zzimcar.study.common.security;
 
 import javax.servlet.http.HttpServletRequest;
 import org.springframework.security.web.authentication.preauth.AbstractPreAuthenticatedProcessingFilter;
